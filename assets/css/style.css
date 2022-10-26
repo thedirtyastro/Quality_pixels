@@ -35,7 +35,7 @@ h3 {
 
 .nav-link:hover {
     font-weight: bold;
-    color: deepskyblue !important;
+    color: orange !important;
 }
 
 .navbar-collapse {
@@ -45,14 +45,12 @@ h3 {
 li .current {
     background: none;
     font-weight: bold;
-    color: deepskyblue !important;
+    color: orange !important;
 }
 
 .logo {
     height: 50px;
 }
-
-
 
 h3 {
     font-family: "Poppins", sans-serif;
